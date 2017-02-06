@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Extend Quick Edit
-Plugin URI: https://elevate360.com.au/plugins/extend-quick-edit
+Plugin URI: https://simoncodrington.com.au/
 Description: Extends the quick edit interface to display additional custom metadata
 Version: 1.0.0
 Author: Simon Codrington
